@@ -1,2 +1,3 @@
+gunicorn
 quart
 quart-cors
